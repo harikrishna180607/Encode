@@ -66,6 +66,8 @@ RTl Image:
 Wave Image:
 [unknown.bmp](https://github.com/user-attachments/files/24143246/unknown.bmp)
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d887b48e-3d13-438f-80d4-91d4b95d7352" />
+
 Result :
 
 We got the expected and the RTLIMage and wave image
